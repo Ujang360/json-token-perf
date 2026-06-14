@@ -1,0 +1,6 @@
+[project]
+name = "ujang-json-token-perf"
+slug = "ujang-json-token-perf"
+
+[amem]
+server = "https://amem.flusci.org"
